@@ -26,7 +26,7 @@ Dataset : https://figshare.com/articles/dataset/Image_data_and_labels/19232523
 1. report.pdf - Detailed report of the project.
 2. Datsetgen.py - Read dataset for K-Means
 3. KMeans.ipynb - impementing K_means for island detection.
-4. cnn(1).ipynb - Classification of the detected island (blocky - elongated)
+4. cnn.ipynb - Classification of the detected island (blocky - elongated)
 5. Detectron2.ipynb - Mask R-CNN for segmentation
 6. Data_augmentation.ipynb - Auxilary program do generate augmentated data.
 
